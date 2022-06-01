@@ -1,14 +1,18 @@
 ![icon](README/icon.png)
 
 ![Open Source](https://img.shields.io/badge/Open_source-yes-brightgreen.svg)
-![Language](https://img.shields.io/badge/Language-CSharp-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-WPF-9cf.svg)
+![Язык](https://img.shields.io/badge/Язык-CSharp-blue.svg)
+![Платформа](https://img.shields.io/badge/Платформа-WPF-9cf.svg)
 
-# Hearing Protection
-An app to protect your hearing from harsh loud sounds. A simple application written using the **C#** language and the **WPF** platform.
+---
 
-# Demo
-![Demonstration](README/demonstration.gif)
+**[README - English version](README/EN.md)**
 
-# Download
-**[Latest Release](https://github.com/Shark-vil/Hearing-Protection/releases/latest)**
+# Защитник Слуха
+Приложение для защиты вашего слуха от резких громких звуков. Простое приложение, написанное с использованием языка **C#** и платформы **WPF**.
+
+# Демонстрация
+![Демонстрация](README/demonstration.gif)
+
+# Скачать
+**[Последняя версия](https://github.com/Shark-vil/Hearing-Protection/releases/latest)**
